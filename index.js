@@ -211,16 +211,60 @@ const Projects = props => {
     
     React.createElement("div", { className: "projects-wrapper" }, /*#__PURE__*/
     React.createElement(Project, {
-      title: "Mark's Portal",
-      img: 'pattarai.jpg',
-      tech: "js css php python",
-      link: "https://pattarai.in"
+      title: "Swirl 2k17",
+      img: 'swirl.jpg',
+      tech:'',
+      link: "https://www.instagram.com/swirl2k17/"
    }, /*#__PURE__*/
 
-    React.createElement("small", null, "Built using HTML, CSS, MYSQL, Python, Php and Javascript"), /*#__PURE__*/
+    React.createElement("small", null, "An Interschool Culturals By SAcred Hearts MAt Hr SEc School"), /*#__PURE__*/
 
 
-    React.createElement("p", null, "A hassle free portal to upload or modify marks of the students and to calculate internals and to generate consolidated or cummulative mark sheet.    ")),
+    React.createElement("p", null, "A platform where one can showcase their talents. It was a huge pleasure that i got to plan for this culturals in the year 2017 and made it a success. ")),
+
+
+    React.createElement("div", { className: "projects-wrapper" }, /*#__PURE__*/
+    React.createElement(Project, {
+      title: "resurrection 2k18",
+      img: 'resurrection.jpg',
+      tech:'',
+      link: "https://www.instagram.com/resurrection_2k18/"
+   }, /*#__PURE__*/
+
+    React.createElement("small", null, "A Private Culturals"), /*#__PURE__*/
+
+
+    React.createElement("p", null,"It was a different experience for planning a private culturals. From planning the events to getting the sponsers it was a great learning experience and the event came out great."))),
+
+
+    React.createElement("div", { className: "projects-wrapper" }, /*#__PURE__*/
+    React.createElement(Project, {
+      title: "Engenia 2k19-2k20",
+      img: 'engenia.jpg',
+      tech:'',
+      link: "https://www.instagram.com/engenia_2k20/"
+   }, /*#__PURE__*/
+
+    React.createElement("small", null, "An intra collegiate culturals by LICET"), /*#__PURE__*/
+
+
+    React.createElement("p", null,"I was the Cutural Secretary of Engenia 2k19-2k20. I was indeed a huge pleasure to work on this event. We worked on this as a team to make this a success. We made the event a grand sucess. "))),
+
+
+    React.createElement("div", { className: "projects-wrapper" }, /*#__PURE__*/
+    React.createElement(Project, {
+      title: "Longest fashion show",
+      img: 'uwr.jpg',
+      tech:'',
+      link: "https://www.instagram.com/uwr_south/"
+   }, /*#__PURE__*/
+
+    React.createElement("small", null, "A World Record Attempt by Unique World Records"), /*#__PURE__*/
+
+
+    React.createElement("p", null,"The experince i gained from this event was immense. To plan a world record event is something different. I went through a huge learning curve. The event went well but the recordwas not achieved."))),
+
+
   ))))); /*#__PURE__*/
 
 
